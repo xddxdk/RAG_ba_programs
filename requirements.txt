@@ -1,0 +1,14 @@
+beautifulsoup4
+selenium
+tqdm
+pandas
+langchain
+langchain-community
+langchain-openai
+langchain-qdrant
+langchain-huggingface
+qdrant-client
+sentence-transformers
+fastapi
+uvicorn
+pydantic
